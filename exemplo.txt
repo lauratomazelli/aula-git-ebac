@@ -1,0 +1,1 @@
+Arquivo de exemplo para a aula de GIT, do módulo 10, curso de Teste de Software da EBAC.
